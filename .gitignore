@@ -155,3 +155,4 @@ cython_debug/
 lib64
 pyvenv.cfg
 bin/
+leads/migrations/
